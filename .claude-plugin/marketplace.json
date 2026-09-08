@@ -5,9 +5,9 @@
     },
     "plugins": [
         {
-            "name": "release-tools",
+            "name": "qa-kit",
             "source": "./",
-            "description": "Commands and agents for cutting a release."
+            "description": "Commands and agents for reviewing and summarizing changes."
         }
     ]
 }
