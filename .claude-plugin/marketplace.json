@@ -1,0 +1,13 @@
+{
+    "name": "my-tools",
+    "owner": {
+        "name": "SernaDesigns"
+    },
+    "plugins": [
+        {
+            "name": "release-tools",
+            "source": "./",
+            "description": "Commands and agents for cutting a release."
+        }
+    ]
+}
